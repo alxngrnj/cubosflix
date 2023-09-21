@@ -1,0 +1,11 @@
+:root {
+  --background: #fff;
+  --input-color: #979797;
+  --text-color: #1b2028;
+  --bg-secondary: #ededed;
+  --rating-color: #f1c40f;
+  --bg-modal: #ededed;
+
+  --bg-dark-secondary: #2D3440;
+  --input-color-dark: #3E434D;
+}
